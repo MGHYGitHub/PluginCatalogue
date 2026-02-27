@@ -1,12 +1,12 @@
 {
-  "id": "colorful_id",
+  "id": "color_me",
   "authors": [
     {
       "name": "Apricityx_",
       "link": "https://github.com/Apricityx"
     }
   ],
-  "repository": "https://github.com/Apricityx/ColorfulID",
+  "repository": "https://github.com/Apricityx/ColorMe",
   "branch": "master",
   "labels": ["tool"],
   "introduction": {
